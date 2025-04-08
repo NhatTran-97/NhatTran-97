@@ -19,7 +19,6 @@
     <td align="center" width="50%">
       <h4>GitHub Stats</h4>
       <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default" width="90%"/>
-
     </td>
   </tr>
 </table>
