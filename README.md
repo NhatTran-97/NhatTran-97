@@ -5,16 +5,10 @@
 🎓 Teaching **STEM** at **EIU FabLab**, Binh Duong 🇻🇳  
 🌱 Passionate about applying emerging technologies in the field of autonomous vehicles and drones 
 
----
-
-### 🔧 Technologies & Tools
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
----
-## 📊 My GitHub Stats
 
 <table>
   <tr>
@@ -24,9 +18,8 @@
     </td>
     <td align="center" width="50%">
       <h4>GitHub Stats</h4>
-      <p align="center">
-        <img src="https://github.com/ryo-ma/github-profile-trophy/blob/master/icons/github.svg" width="100px"/>
-      </p>
+      <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default" width="90%"/>
+
     </td>
   </tr>
 </table>
