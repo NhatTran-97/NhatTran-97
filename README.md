@@ -18,3 +18,12 @@
 ## 📊 My GitHub Stats
 
 ![NhatTran-97's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=radical)
+
+---
+## 📬 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nh%E1%BA%A5t-duy-475028131/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/NhatTran-97)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@NhatTran-b8g)
+
+---
