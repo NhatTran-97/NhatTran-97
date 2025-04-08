@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Nhat Tran
 
-🚗 Working on research platforms for **autonomous vehicles** and **drones**.  
-📫  Research interests include perception, control, and planning.  
+✨ Working on research platforms for **autonomous vehicles** and **drones**.  
+📫 Research interests include perception, control, and planning.  
 🎓 Teaching STEM and supporting passionate students in the field of robotics at EIU FabLab, Binh Duong 🇻🇳.  
 🌱 I'm passionate about applying emerging technologies in the field of autonomous vehicles and drones.
 
@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/NhatTran-97)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@NhatTran-b8g)
 
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![micro-ROS](https://img.shields.io/badge/micro--ROS-00BFFF?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
