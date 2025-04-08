@@ -10,18 +10,19 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+<h3 align="center">📊 My GitHub Statistics</h3>
+
 <table>
   <tr>
     <td align="center" width="50%">
-
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&layout=compact&theme=default" width="90%"/>
     </td>
     <td align="center" width="50%">
-      <h4>GitHub Stats</h4>
       <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default" width="90%"/>
     </td>
   </tr>
 </table>
+
 
 ---
 ## 📬 How to reach me:
