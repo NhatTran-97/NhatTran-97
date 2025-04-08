@@ -8,17 +8,16 @@
 ---
 
 ### 🔧 Technologies & Tools
-- ROS2 (Humble)
-- PX4 Autopilot
-- C++, Python, Ubuntu, Docker
-- RViz, Gazebo, RealSense, QGroundControl
-- Microcontrollers & sensors for STEM
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 ## 📊 My GitHub Stats
 
-![NhatTran-97's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=radical)
-
+![NhatTran-97's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&layout=compact&theme=default)
 ---
 ## 📬 How to reach me:
 
