@@ -1,11 +1,11 @@
-## 👋 Hi there, I'm Nhat Tran
+### 👋 Hi there, I'm Nhat Tran
 
 ✨ Working on research platforms for **autonomous vehicles** and **drones**.  
 📫 Research interests include perception, control, and planning.  
 🎓 Teaching STEM and supporting passionate students in the field of robotics at EIU FabLab, Binh Duong 🇻🇳.  
 🌱 I'm passionate about applying emerging technologies in the field of autonomous vehicles and drones.
 
-## 📬 How to reach me:
+### 📬 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nh%E1%BA%A5t-duy-475028131/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/NhatTran-97)
