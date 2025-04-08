@@ -16,8 +16,22 @@
 ---
 ## 📊 My GitHub Stats
 
-![NhatTran-97's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&layout=compact&theme=default)
+<h3 align="center">📊 GitHub Statistics</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="420px">
+      
+      <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default" width="100%" />
+
+    </td>
+    <td align="center" width="420px">
+      
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&layout=compact&theme=default" width="100%" />
+
+    </td>
+  </tr>
+</table>
+
 ---
 ## 📬 How to reach me:
 
