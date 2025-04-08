@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h4>Most Used Languages</h4>
+
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&layout=compact&theme=default" width="90%"/>
     </td>
     <td align="center" width="50%">
