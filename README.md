@@ -24,7 +24,9 @@
     </td>
     <td align="center" width="50%">
       <h4>GitHub Stats</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default" width="90%"/>
+      <p align="center">
+        <img src="https://github.com/ryo-ma/github-profile-trophy/blob/master/icons/github.svg" width="100px"/>
+      </p>
     </td>
   </tr>
 </table>
