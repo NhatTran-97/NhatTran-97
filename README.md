@@ -1,9 +1,8 @@
 ## 👋 Hi there, I'm Nhat Tran
 
 🚗 Working on research platforms for **autonomous vehicles** & **drones**  
-🧠 Tools: **ROS2**, **PX4**, embedded systems, and real-time control  
 🎓 Teaching **STEM** at **EIU FabLab**, Binh Duong 🇻🇳  
-🌱 Passionate about applying emerging technologies in the field of autonomous vehicles and drones 
+📫 My research interests include Perception, Control & Planning and Passionate about applying emerging technologies in the field of autonomous vehicles and drones 
 
 ## 📬 How to reach me:
 
