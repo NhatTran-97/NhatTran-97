@@ -16,21 +16,20 @@
 ---
 ## 📊 My GitHub Stats
 
-<h3 align="center">📊 GitHub Statistics</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="420px">
-      
-      <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default" width="100%" />
+<h3 align="center">📊 My GitHub Statistics</h3>
 
-    </td>
-    <td align="center" width="420px">
-      
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&layout=compact&theme=default" width="100%" />
-
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default" width="400px"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&layout=compact&theme=default" width="400px"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 ## 📬 How to reach me:
