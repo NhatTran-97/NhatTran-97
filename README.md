@@ -15,3 +15,6 @@
 - Microcontrollers & sensors for STEM
 
 ---
+## 📊 My GitHub Stats
+
+![NhatTran-97's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=radical)
