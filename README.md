@@ -18,16 +18,17 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-AC7B0C?style=for-the-badge&logo=dev.to&logoColor=white)
 
+### 📊 GitHub Stats
+
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&repo=Automatic_Irrigation_System&layout=compact" width="90%"/>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&repo=differential_drive&layout=compact" width="90%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&layout=compact&langs_count=8&theme=default" width="100%" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default&count_private=true" width="90%"/>
     </td>
   </tr>
 </table>
+
 
