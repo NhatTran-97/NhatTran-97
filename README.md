@@ -28,3 +28,12 @@
     </td>
   </tr>
 </table>
+---
+
+### 📂 Repo-specific Language Stats
+
+#### 🔹 Automatic_Irrigation_System
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&repo=Automatic_Irrigation_System&layout=compact" width="50%"/>
+
+#### 🔹 Full-Stack-Embedded-System
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&repo=Full-Stack-Embedded-System&layout=compact" width="50%"/>
