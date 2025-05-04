@@ -21,13 +21,13 @@
 <table>
   <tr>
     <td align="center" width="50%">
-<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&layout=compact&langs_count=8&theme=default" width="100%"/> -->
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&repo=Automatic_Irrigation_System&layout=compact" />
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&repo=differential_drive&layout=compact" />
-      
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&repo=Automatic_Irrigation_System&layout=compact" width="90%"/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&repo=differential_drive&layout=compact" width="90%"/>
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default&count_private=true" width="90%"/>
     </td>
   </tr>
 </table>
+
