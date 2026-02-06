@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Nhat Tran
 
 ✨ Working on research platforms for **autonomous vehicles** and **drones**.  
-📫 Research interests include perception, control, and planning.  
+📫 Research interests include perception, localization, and sensor fusion.  
 🎓 Teaching STEM and supporting passionate students in the field of robotics at EIU FabLab, Ho Chi Minh City 🇻🇳.  
 🌱 I'm passionate about applying emerging technologies in the field of autonomous vehicles and drones.
 
