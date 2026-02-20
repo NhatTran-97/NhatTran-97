@@ -21,10 +21,12 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&layout=compact&langs_count=8&theme=default" width="100%" />
+      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&layout=compact&langs_count=8&theme=default" width="100%" /> -->
+      <img style="height: 170px; width: auto;" align="left" src="https://github-readme-stats-zeta-nine-75.vercel.app/api/top-langs?username=NhatTran-97&show_icons=true&locale=en&layout=compact" alt="NhatTran-97" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default&count_private=true" width="90%"/>
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default&count_private=true" width="90%"/> -->
+      <img style="height: 170px; width: auto;" align="right" src="https://github-readme-stats-zeta-nine-75.vercel.app/api?username=NhatTran-97&rank_icon=github" alt="NhatTran-97" />
     </td>
   </tr>
 </table>
