@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Nhat Tran 👋
+# Hi, I'm Nhat Tran 
 
 ✨ Research & engineering platforms for **autonomous vehicles** and **drones**
 📫 Perception · Localization · Sensor Fusion
