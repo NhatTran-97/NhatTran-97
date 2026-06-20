@@ -2,9 +2,9 @@
   
 # Hi, I'm Nhat Tran 
 
-✨ Research & engineering platforms for **autonomous vehicles** and **drones**
-📫 Perception · Localization · Sensor Fusion
-🎓 Teaching STEM & mentoring robotics students at **EIU FabLab**, Ho Chi Minh City 🇻🇳
+✨ Research & engineering platforms for **autonomous vehicles** and **drones**<br>
+📫 Perception · Localization · Sensor Fusion<br>
+🎓 Teaching STEM & mentoring robotics students at **EIU FabLab**, Ho Chi Minh City 🇻🇳<br>
 🌱 Passionate about applying emerging tech to autonomous systems
 
 <a href="https://www.linkedin.com/in/nh%E1%BA%A5t-duy-475028131/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
