@@ -33,9 +33,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="NhatTran-97 stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default&rank_icon=github&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" height="170" alt="NhatTran-97 stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
@@ -57,4 +57,5 @@
 <div align="center">
   <sub>⚡ Always exploring new ideas in perception, navigation, and robot fleet orchestration.</sub>
 </div>
+
 
