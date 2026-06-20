@@ -29,39 +29,18 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🚛 **VDA5050 ↔ Open-RMF Fleet Bridge** | MQTT-to-ROS2 adapter (`vda5050_client_adapter`) + Open-RMF `EasyFullControl` fleet adapter integrating TurtleBot3 with VDA5050 protocol. Includes benchmark framework (8 scope levels, 15 metrics) for ARTC Singapore review. |
-| 🛰️ **Drone GCS — Jetson · PX4 · LoRa** | Companion-computer drone stack running PX4 Offboard mode, LoRa ground-link telemetry (replacing MAVLink radio), Skydroid C12 gimbal control, and a custom Python/Qt ground control UI. |
-| 🔧 **STM32 Embedded Drivers** | Bare-metal & HAL drivers: HC-SR04 ultrasonic (interrupt-based), ICM-20948 IMU + AK09916 magnetometer, SPI/DMA master-slave communication with custom register protocol. |
-| 🐕 **ESP32 Quadruped Robot Dog** | Custom quadruped platform with ESP32 firmware and a web-based controller interface for gait and motion control. |
-
-> 📌 *Pin these on your GitHub profile (Customize your pins) to make them appear as cards above.*
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default&rank_icon=github&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" height="170" alt="NhatTran-97 stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="NhatTran-97 stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&layout=compact&theme=default&hide_border=true&langs_count=8" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatTran-97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NhatTran-97&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NhatTran-97&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NhatTran-97&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </picture>
 </p>
 
