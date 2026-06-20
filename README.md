@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hi, I'm Nhat Tran 👋
 
 ✨ Research & engineering platforms for **autonomous vehicles** and **drones**
@@ -17,15 +16,15 @@
 
 ### 🛠️ Tech Stack
 
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![micro-ROS](https://img.shields.io/badge/micro--ROS-00BFFF?style=for-the-badge&logo=robotframework&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt%2FQML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium%20Designer-AC7B0C?style=for-the-badge&logo=dev.to&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![micro-ROS](https://img.shields.io/badge/micro--ROS-00BFFF?style=flat&logo=robotframework&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt%2FQML-41CD52?style=flat&logo=qt&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-AC7B0C?style=flat&logo=dev.to&logoColor=white)
 
 ---
 
