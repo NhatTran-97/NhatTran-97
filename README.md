@@ -46,9 +46,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=NhatTran-97&theme=tokyo-night&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=NhatTran-97&theme=minimal&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NhatTran-97&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=NhatTran-97&theme=tokyo-night&hide_border=true&height=300" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=NhatTran-97&theme=minimal&hide_border=true&height=300" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NhatTran-97&theme=tokyo-night&hide_border=true&height=300" alt="Activity graph" width="70%" />
   </picture>
 </p>
 
@@ -57,5 +57,4 @@
 <div align="center">
   <sub>⚡ Always exploring new ideas in perception, navigation, and robot fleet orchestration.</sub>
 </div>
-
 
