@@ -44,6 +44,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default&rank_icon=github&hide_border=true&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" height="170" alt="NhatTran-97 stats" />
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NhatTran-97&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=NhatTran-97&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=NhatTran-97&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  </picture>
 </p>
 <p align="center">
   <picture>
