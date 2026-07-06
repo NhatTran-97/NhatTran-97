@@ -1,30 +1,24 @@
 <div align="center">
   
 # Hi, I'm Nhat Tran 
-
 </div>
 
 <div align="left">
-
 ✨ Research & engineering platforms for **autonomous vehicles** and **drones**<br>
 📫 Perception · Localization · Sensor Fusion<br>
 🎓 Teaching STEM & mentoring robotics students at **EIU FabLab**, Ho Chi Minh City 🇻🇳<br>
 🌱 Passionate about applying emerging tech to autonomous systems
-
 </div>
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/nh%E1%BA%A5t-duy-475028131/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/NhatTran-97"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.youtube.com/@NhatTran-b8g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-
 </div>
 
 ---
 
 ### 🛠️ Tech Stack
-
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![micro-ROS](https://img.shields.io/badge/micro--ROS-00BFFF?style=flat&logo=robotframework&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -40,9 +34,9 @@
 ### 📊 GitHub Stats
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default&rank_icon=github&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" height="170" alt="NhatTran-97 stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=default&rank_icon=github&hide_border=true&count_private=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true&cache_seconds=86400" height="170" alt="NhatTran-97 stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NhatTran-97&theme=tokyonight&hide_border=true" />
@@ -50,12 +44,12 @@
     <img src="https://streak-stats.demolab.com?user=NhatTran-97&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
   </picture>
 </p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=NhatTran-97&theme=tokyo-night&hide_border=true&height=300" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=NhatTran-97&theme=minimal&hide_border=true&height=300" />
-    <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true&cache_seconds=86400" />
-    
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NhatTran-97&theme=tokyo-night&hide_border=true&height=300" alt="Activity graph" width="80%" />
   </picture>
 </p>
 
@@ -64,4 +58,3 @@
 <div align="center">
   <sub>⚡ Always exploring new ideas in perception, navigation, and robot fleet orchestration.</sub>
 </div>
-
