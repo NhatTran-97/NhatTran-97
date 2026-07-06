@@ -54,7 +54,8 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=NhatTran-97&theme=tokyo-night&hide_border=true&height=300" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=NhatTran-97&theme=minimal&hide_border=true&height=300" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NhatTran-97&theme=tokyo-night&hide_border=true&height=300" alt="Activity graph" width="80%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NhatTran-97&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true&cache_seconds=86400" />
+    
   </picture>
 </p>
 
